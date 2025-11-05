@@ -1,0 +1,28 @@
+#quizsection{
+    margin-top: 20px;
+    width: 100%;
+    background-color: lightpink;
+    border: 2px solid;
+}
+
+#qst{
+    padding: 4px;
+}
+ol{
+    list-style: lower-alpha;
+}
+
+#score{
+    margin-top: 10px;
+    width: 300px;
+    height: 80px;
+    background-color: aquamarine;
+    border: 3px solid red;
+    border-radius: 8px;
+    text-align: center;
+
+}
+h3{
+    text-align: center;
+    color: navy;
+}

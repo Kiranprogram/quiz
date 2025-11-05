@@ -1,0 +1,41 @@
+.container-fluid{
+    margin-top: 20px;
+}
+#id1{
+    width: 20%;
+}
+#id2{
+    width: 60%;
+}
+h2{
+    color: chocolate;
+    text-align: center;
+}
+#h2id{
+    color: cornflowerblue;
+}
+h5{
+    color: navy;
+}
+ul{
+    list-style: none;
+    display: flex;
+    margin-left: 25px;
+}
+li{
+   padding-left: 125px;
+   font-size: 24px;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: navy;
+}
+#id1{
+    background-color: #f2f2f2;
+    kerning: auto ;
+}
